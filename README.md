@@ -12,7 +12,7 @@ A simple React app for managing daily tasks with features like adding, editing, 
 # Installation and Usage
 
 ## Clone the repository:
-   git clone https://github.com/<your-username>/task-tracker.git
+   https://github.com/bukkepriyanka/task-tracker.git
 
 ## Navigate to the project folder:
 cd task-tracker
